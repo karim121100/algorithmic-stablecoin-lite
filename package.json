@@ -1,0 +1,9 @@
+{
+  "name": "algorithmic-stablecoin-lite",
+  "version": "1.0.0",
+  "description": "Dual-token Seigniorage Protocol",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "ethers": "^6.10.0"
+  }
+}
